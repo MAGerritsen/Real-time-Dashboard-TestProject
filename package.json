@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "chart.js": "^3.7.0",
+    "chartkick": "^5.0.1",
+    "highcharts": "^11.4.0",
+    "vue": "^3.2.25",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "sass": "^1.49.8",
+    "vite": "^2.8.0"
+  }
+}
